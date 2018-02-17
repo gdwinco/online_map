@@ -30,7 +30,7 @@
 		</div>
 		<div id="actionDialog">
             <br>
-        </div>
+        </div> 
 		 <?php include('./include/topmenu.inc'); ?>
 	</body>
 </html>
